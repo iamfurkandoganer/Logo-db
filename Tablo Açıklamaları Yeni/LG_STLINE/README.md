@@ -1,4 +1,4 @@
-### LG_STLINE cbyfd
+### LG_STLINE
 
 ## Alanlar ve Açıklamaları
 
